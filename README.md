@@ -1,11 +1,11 @@
 Hello, Reader!
 Thank you for playing Dragon Slayer, a game that was planned out in just one day and then coded in three days.
-Dragon Slayer Team:
-Lead Developer and Dialogue: Steven White
-Developer and Dialogue: David Graham
-Developer: Mohammad Zahir
-Developer: Michael Dickinson
-Creative Input: Bruno Anyaeriuba
+Dragon Slayer Team:<br>
+Lead Developer and Dialogue: Steven White<br>
+Developer and Dialogue: David Graham<br>
+Developer: Mohammad Zahir<br>
+Developer: Michael Dickinson<br>
+Creative Input: Bruno Anyaeriuba<br>
 
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
